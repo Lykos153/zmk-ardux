@@ -16,7 +16,11 @@ jobs:
           - board: puchi_ble_v1
             shield: cradio_ardux_thumb_left
           - board: puchi_ble_v1
+            shield: cradio_ardux_left_big
+          - board: puchi_ble_v1
             shield: cradio_ardux_right
+          - board: puchi_ble_v1
+            shield: cradio_ardux_right_big
           - board: puchi_ble_v1
             shield: cradio_ardux_thumb_right
     steps:
