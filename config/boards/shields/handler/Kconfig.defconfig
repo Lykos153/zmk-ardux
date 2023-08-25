@@ -3,4 +3,10 @@ if SHIELD_HANDLER
 config ZMK_KEYBOARD_NAME
     default "Handler"
 
+config LVGL_HOR_RES_MAX
+	default 128
+
+config LVGL_VER_RES_MAX
+	default 32
+
 endif
